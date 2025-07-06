@@ -1,0 +1,18 @@
+# ❌ Không push file cấu hình thật
+.env
+
+# ⚙️ Thư mục cài đặt tự động, không cần đẩy
+node_modules/
+
+# 🧪 Các file log/debug tạm
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# 🧹 Các thư mục tạm
+.DS_Store
+*.swp
+*.tmp
+
+# 🧠 VS Code settings (tuỳ)
+.vscode/
